@@ -147,7 +147,7 @@ results/
 
 Additional experimental outputs, checkpoints and supplementary files are available via Google Drive:
 
-[Google Drive Link]
+[[Google Drive Link](https://drive.google.com/drive/folders/1ZCbD4MeXUwP0SvzQP89iFwshCJ0hZxXT?usp=sharing)]
 
 ---
 
