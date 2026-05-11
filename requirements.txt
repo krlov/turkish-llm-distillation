@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
+pandas
+numpy
+matplotlib
+tqdm
+jupyter
+ipykernel
+sentencepiece
